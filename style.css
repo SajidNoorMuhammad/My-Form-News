@@ -1,5 +1,5 @@
 body {
-    background-image: url(o.jpg);
+    background-image: url(o.jpg) !important;
     background-repeat: no-repeat;
     width: 100%;
 }
@@ -32,4 +32,9 @@ body {
 h1 {
     text-decoration: underline;
     text-align: center;
+}
+
+.fg {
+    font-size: 25px;
+    padding-left: 60px;
 }
