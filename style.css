@@ -1,0 +1,35 @@
+body {
+    background-image: url(o.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.one {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.two {
+    font-size: 30px;
+    text-align: justify;
+    text-align: center;
+}
+
+.two {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.three{
+    font-size: 40px;
+    padding-left: 10px;
+}
+
+.four {
+    font-size: 30px;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
